@@ -22,7 +22,6 @@ insertY = [
   'the soup kitchen',
   'Disneyland',
   'the White House'];
-
 insertZ = [
   'spontaneously combusted',
   'melted into a puddle on the sidewalk',
